@@ -4,9 +4,9 @@ From Naples to Todi on foot.
 
 ## Maps
 
-* [Roma - Todi](https://www.google.com/maps/d/u/0/edit?mid=1LA2dTdu8eIJquc3RNuvnnc5Tr69_zzGO&usp=sharing)
-* [Frosinone - Roma](https://www.google.com/maps/d/u/0/edit?mid=1QmY3QGjLtRpsqGuP6Z1sBQ3TYbkrXiGZ&usp=sharing)
 * [Napoli - Frosinone](https://www.google.com/maps/d/u/0/edit?mid=12UHYNq_lb03OU89U8HT2Omo7Cf_J-dMy&usp=sharing)
+* [Frosinone - Roma](https://www.google.com/maps/d/u/0/edit?mid=1QmY3QGjLtRpsqGuP6Z1sBQ3TYbkrXiGZ&usp=sharing)
+* [Roma - Todi](https://www.google.com/maps/d/u/0/edit?mid=1LA2dTdu8eIJquc3RNuvnnc5Tr69_zzGO&usp=sharing)
 
 ## Milestones
 
