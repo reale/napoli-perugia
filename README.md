@@ -1,5 +1,7 @@
 # Napoli - Todi
 
+![Todi](todi.jpg)
+
 From Naples to Todi on foot.
 
 ## Maps
