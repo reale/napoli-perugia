@@ -8,7 +8,8 @@ The project started in 2016 and is still ongoing.
 
 ## Maps
 
-* [Napoli - Frosinone](https://www.google.com/maps/d/u/0/edit?mid=12UHYNq_lb03OU89U8HT2Omo7Cf_J-dMy&usp=sharing) (ongoing)
+* [Napoli - Cassino](https://www.google.com/maps/d/u/0/edit?mid=12UHYNq_lb03OU89U8HT2Omo7Cf_J-dMy&usp=sharing) (ongoing)
+* Cassino - Frosinone (not yet started)
 * [Frosinone - Roma](https://www.google.com/maps/d/u/0/edit?mid=1QmY3QGjLtRpsqGuP6Z1sBQ3TYbkrXiGZ&usp=sharing) (ongoing)
 * [Roma - Todi](https://www.google.com/maps/d/u/0/edit?mid=1LA2dTdu8eIJquc3RNuvnnc5Tr69_zzGO&usp=sharing) (completed)
 
