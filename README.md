@@ -1,8 +1,8 @@
-# Napoli - Todi
+# Napoli - Perugia
 
 ![Todi](todi.jpg)
 
-From Naples to Todi on foot.
+From Naples to Perugia on foot.
 
 The project started in 2016 and is still ongoing.
 
@@ -12,6 +12,7 @@ The project started in 2016 and is still ongoing.
 * Cassino - Frosinone (not yet started)
 * [Frosinone - Roma](https://www.google.com/maps/d/u/0/edit?mid=1QmY3QGjLtRpsqGuP6Z1sBQ3TYbkrXiGZ&usp=sharing) (ongoing)
 * [Roma - Todi](https://www.google.com/maps/d/u/0/edit?mid=1LA2dTdu8eIJquc3RNuvnnc5Tr69_zzGO&usp=sharing) (completed)
+* Todi - Perugia (not yet started)
 
 ## Milestones
 
